@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AutoPaint CRM/AutoPaint.csproj" Id="a7748920-4a5d-49b0-895b-3f42845e8f84" />
+  <Project Path="AutoPaint.api/AutoPaint.api.csproj" />
+  <Project Path="AutoPaint.domain/AutoPaint.domain.csproj" />
+  <Project Path="AutoPaint.infrastructure/AutoPaint.infrastructure.csproj" />
+</Solution>
